@@ -15,5 +15,5 @@ let num1 =  Number(prompt("Pick a number: "));
     console.log("buzz");
 } else
 {
-    console.log("no fizz")
+    console.log("no fizz");
 }

@@ -21,8 +21,8 @@ if ( planetNum === 1){
     console.log(`Your weight its : ${weight * 1.17}`);
 } else if ( planetNum === 1){
     console.log("You picked Uranus. ");
-    console.log(`Your weight its : ${weight * 1.05}`)
+    console.log(`Your weight its : ${weight * 1.05}`);
 } else 
 { console.log("You picked Neptune. ");
-console.log(`Your weight its : ${weight * 1.23}`)
+console.log(`Your weight its : ${weight * 1.23}`);
 }
