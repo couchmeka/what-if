@@ -6,6 +6,7 @@ let planetNum = Number(prompt("> "));
 console.log(weight);
 console.log(planetNum);
 
+
 if ( planetNum === 1){
     console.log("You picked Venus. ");
     console.log(`Your weight its : ${weight * 0.78}`);
